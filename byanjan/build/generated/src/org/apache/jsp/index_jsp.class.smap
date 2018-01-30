@@ -1,0 +1,51 @@
+SMAP
+index_jsp.java
+JSP
+*S JSP
+*F
++ 0 index.jsp
+index.jsp
++ 1 mydb_connection.jsp
+database/mydb_connection.jsp
++ 2 headfile.html
+headfile.html
++ 3 navigation.html
+navigation.html
++ 4 banner.html
+banner.html
++ 5 article.html
+article.html
++ 6 menu.html
+menu.html
++ 7 team.html
+team.html
++ 8 fun.html
+fun.html
++ 9 contact.html
+contact.html
++ 10 footer.html
+footer.html
+*L
+5,2:64
+5#1,24:66
+28,2:90
+7#0,9:92
+1#2,29:101
+15#0,10:130
+1#3,33:140
+24#0,5:173
+1#4,38:178
+28#0,3:216
+1#5,88:219
+30#0,4:307
+1#6,613:311
+33#0,4:923
+1#7,94:927
+36#0,3:1020
+1#8,40:1023
+38#0,3:1063
+1#9,64:1066
+40#0,4:1129
+1#10,49:1133
+43#0,76:1182
+*E
